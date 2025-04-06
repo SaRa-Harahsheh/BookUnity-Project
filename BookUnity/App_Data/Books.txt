@@ -1,0 +1,276 @@
+1,The Lord of the Rings,J.R.R. Tolkien,Fantasy,Reserved
+2,Pride and Prejudice,Jane Austen11,Romance,Reserved
+3,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,Reserved
+6,The Great Gatsby,Firas11111,Classic,Reserved
+7,And Then There Were None,Agatha Christie1234,Mystery,Reserved
+8,The Catcher in the Rye,J.D. Salinger,Coming-of-age,Reserved
+10,The Hunger Games,Suzanne Collins,Young Adult,Reserved
+11,The Book Thief,Markus Zusak,Historical Fiction,Reserved
+12,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,Reserved
+13,The Hobbit,J.R.R. Tolkien,Fantasy,Available
+14,Jane Eyre,Charlotte Bront�,Gothic Romance,Available
+14,Jane Eyre2,Charlotte Bront�,Gothic Romance,Available
+15,The Shining,Stephen King,Horror,Reserved
+16,The Handmaid's Tale,Margaret Atwood,Dystopian,Available
+17,The Odyssey,Homer,Epic Poetry,Reserved
+18,Little Women,Louisa May Alcott,Classic,Available
+19,The Count of Monte Cristo,Alexandre Dumas,Adventure,Reserved
+20,The Secret Garden,Frances Hodgson Burnett,Children's Literature,Reserved
+21,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,Reserved
+22,The Witch and the Wardrobe,C.S. Lewis,Fantasy,Available
+24,Gone with the Wind,Margaret Mitchell,Historical Fiction,Available
+25,The Color Purple,Alice Walker,Fiction,Available
+26,Beloved,Toni Morrison,Historical Fiction,Available
+28,Catch-22,Joseph Heller,Satire,Available
+29,The Old Man and the Sea,Ernest Hemingway,Novella,Available
+30,Moby-Dick,Herman Melville,Adventure,Available
+31,A Tale of Two Cities,Charles Dickens,Historical Fiction,Available
+32,Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,Reserved
+33,Anna Karenina,Leo Tolstoy,Realism,Available
+34,One Hundred Years of Solitude,Gabriel Garc�a M�rquez,Magical Realism,Reserved
+35,Midnight's Children,Salman Rushdie,Postcolonial Literature,Available
+36,Things Fall Apart,Chinua Achebe,African Literature,Reserved
+37,The God of Small Things,Arundhati Roy,Fiction,Reserved
+38,Life of Pi,Yann Martel,Adventure,Reserved
+39,The Remains of the Day,Kazuo Ishiguro,Literary Fiction,Reserved
+40,The English Patient,Michael Ondaatje,Historical Fiction,Reserved
+41,Wolf Hall,Hilary Mantel,Historical Fiction,Available
+42,The Road,Cormac McCarthy,Post-Apocalyptic Fiction,Reserved
+43,Blood Meridian,Cormac McCarthy,Western,Available
+44,No Country for Old Men,Cormac McCarthy,Thriller,Reserved
+45,The Brief Wondrous Life of Oscar Wao,Junot D�az,Fiction,Available
+46,The Namesake,Jhumpa Lahiri,Fiction,Reserved
+47,The Lowland,Jhumpa Lahiri,Fiction,Available
+48,Americanah,Chimamanda Ngozi Adichie,Fiction,Reserved
+49,Half of a Yellow Sun,Chimamanda Ngozi Adichie,Historical Fiction,Available
+50,Homegoing,Yaa Gyasi,Historical Fiction,Reserved
+1,The Lord of the Rings,J.R.R. Tolkien,Fantasy,Reserved
+2,Pride and Prejudice,Jane Austen,Romance,Available
+3,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,Available
+6,The Great Gatsby,Firas,Classic,Reserved
+7,And Then There Were None,Agatha Christie,Mystery,Available
+8,The Catcher in the Rye,J.D. Salinger,Coming-of-age,Available
+10,The Hunger Games,Suzanne Collins,Young Adult,Reserved
+11,The Book Thief,Markus Zusak,Historical Fiction,Reserved
+12,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,Reserved
+13,The Hobbit,J.R.R. Tolkien,Fantasy,Available
+14,Jane Eyre,Charlotte Bront�,Gothic Romance,Available
+14,Jane Eyre2,Charlotte Bront�,Gothic Romance,Available
+15,The Shining,Stephen King,Horror,Reserved
+16,The Handmaid's Tale,Margaret Atwood,Dystopian,Available
+17,The Odyssey,Homer,Epic Poetry,Reserved
+18,Little Women,Louisa May Alcott,Classic,Available
+19,The Count of Monte Cristo,Alexandre Dumas,Adventure,Reserved
+20,The Secret Garden,Frances Hodgson Burnett,Children's Literature,Reserved
+21,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,Reserved
+22,The Witch and the Wardrobe,C.S. Lewis,Fantasy,Available
+24,Gone with the Wind,Margaret Mitchell,Historical Fiction,Available
+25,The Color Purple,Alice Walker,Fiction,Available
+26,Beloved,Toni Morrison,Historical Fiction,Available
+28,Catch-22,Joseph Heller,Satire,Available
+29,The Old Man and the Sea,Ernest Hemingway,Novella,Available
+30,Moby-Dick,Herman Melville,Adventure,Available
+31,A Tale of Two Cities,Charles Dickens,Historical Fiction,Available
+32,Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,Reserved
+33,Anna Karenina,Leo Tolstoy,Realism,Available
+34,One Hundred Years of Solitude,Gabriel Garc�a M�rquez,Magical Realism,Reserved
+35,Midnight's Children,Salman Rushdie,Postcolonial Literature,Available
+36,Things Fall Apart,Chinua Achebe,African Literature,Reserved
+37,The God of Small Things,Arundhati Roy,Fiction,Reserved
+38,Life of Pi,Yann Martel,Adventure,Reserved
+39,The Remains of the Day,Kazuo Ishiguro,Literary Fiction,Available
+40,The English Patient,Michael Ondaatje,Historical Fiction,Reserved
+41,Wolf Hall,Hilary Mantel,Historical Fiction,Available
+42,The Road,Cormac McCarthy,Post-Apocalyptic Fiction,Reserved
+43,Blood Meridian,Cormac McCarthy,Western,Available
+44,No Country for Old Men,Cormac McCarthy,Thriller,Reserved
+45,The Brief Wondrous Life of Oscar Wao,Junot D�az,Fiction,Available
+46,The Namesake,Jhumpa Lahiri,Fiction,Reserved
+47,The Lowland,Jhumpa Lahiri,Fiction,Available
+48,Americanah,Chimamanda Ngozi Adichie,Fiction,Reserved
+49,Half of a Yellow Sun,Chimamanda Ngozi Adichie,Historical Fiction,Available
+50,Homegoing,Yaa Gyasi,Historical Fiction,Reserved
+1,The Lord of the Rings,J.R.R. Tolkien,Fantasy,Reserved
+2,Pride and Prejudice,Jane Austen11,Romance,Reserved
+3,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,Reserved
+6,The Great Gatsby,Firas,Classic,Reserved
+7,And Then There Were None,Agatha Christie,Mystery,Available
+8,The Catcher in the Rye,J.D. Salinger,Coming-of-age,Reserved
+10,The Hunger Games,Suzanne Collins,Young Adult,Reserved
+11,The Book Thief,Markus Zusak,Historical Fiction,Reserved
+12,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,Reserved
+13,The Hobbit,J.R.R. Tolkien,Fantasy,Available
+14,Jane Eyre,Charlotte Bront�,Gothic Romance,Available
+14,Jane Eyre2,Charlotte Bront�,Gothic Romance,Available
+15,The Shining,Stephen King,Horror,Reserved
+16,The Handmaid's Tale,Margaret Atwood,Dystopian,Available
+17,The Odyssey,Homer,Epic Poetry,Reserved
+18,Little Women,Louisa May Alcott,Classic,Available
+19,The Count of Monte Cristo,Alexandre Dumas,Adventure,Reserved
+20,The Secret Garden,Frances Hodgson Burnett,Children's Literature,Reserved
+21,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,Reserved
+22,The Witch and the Wardrobe,C.S. Lewis,Fantasy,Available
+24,Gone with the Wind,Margaret Mitchell,Historical Fiction,Available
+25,The Color Purple,Alice Walker,Fiction,Available
+26,Beloved,Toni Morrison,Historical Fiction,Available
+28,Catch-22,Joseph Heller,Satire,Available
+29,The Old Man and the Sea,Ernest Hemingway,Novella,Available
+30,Moby-Dick,Herman Melville,Adventure,Available
+31,A Tale of Two Cities,Charles Dickens,Historical Fiction,Available
+32,Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,Reserved
+33,Anna Karenina,Leo Tolstoy,Realism,Available
+34,One Hundred Years of Solitude,Gabriel Garc�a M�rquez,Magical Realism,Reserved
+35,Midnight's Children,Salman Rushdie,Postcolonial Literature,Available
+36,Things Fall Apart,Chinua Achebe,African Literature,Reserved
+37,The God of Small Things,Arundhati Roy,Fiction,Reserved
+38,Life of Pi,Yann Martel,Adventure,Reserved
+39,The Remains of the Day,Kazuo Ishiguro,Literary Fiction,Available
+40,The English Patient,Michael Ondaatje,Historical Fiction,Reserved
+41,Wolf Hall,Hilary Mantel,Historical Fiction,Available
+42,The Road,Cormac McCarthy,Post-Apocalyptic Fiction,Reserved
+43,Blood Meridian,Cormac McCarthy,Western,Available
+44,No Country for Old Men,Cormac McCarthy,Thriller,Reserved
+45,The Brief Wondrous Life of Oscar Wao,Junot D�az,Fiction,Available
+46,The Namesake,Jhumpa Lahiri,Fiction,Reserved
+47,The Lowland,Jhumpa Lahiri,Fiction,Available
+48,Americanah,Chimamanda Ngozi Adichie,Fiction,Reserved
+49,Half of a Yellow Sun,Chimamanda Ngozi Adichie,Historical Fiction,Available
+50,Homegoing,Yaa Gyasi,Historical Fiction,Reserved
+1,The Lord of the Rings,J.R.R. Tolkien,Fantasy,Reserved
+2,Pride and Prejudice,Jane Austen,Romance,Available
+3,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,Available
+6,The Great Gatsby,Firas,Classic,Reserved
+7,And Then There Were None,Agatha Christie,Mystery,Available
+8,The Catcher in the Rye,J.D. Salinger,Coming-of-age,Available
+10,The Hunger Games,Suzanne Collins,Young Adult,Reserved
+11,The Book Thief,Markus Zusak,Historical Fiction,Reserved
+12,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,Reserved
+13,The Hobbit,J.R.R. Tolkien,Fantasy,Available
+14,Jane Eyre,Charlotte Bront�,Gothic Romance,Available
+14,Jane Eyre2,Charlotte Bront�,Gothic Romance,Available
+15,The Shining,Stephen King,Horror,Reserved
+16,The Handmaid's Tale,Margaret Atwood,Dystopian,Available
+17,The Odyssey,Homer,Epic Poetry,Reserved
+18,Little Women,Louisa May Alcott,Classic,Available
+19,The Count of Monte Cristo,Alexandre Dumas,Adventure,Reserved
+20,The Secret Garden,Frances Hodgson Burnett,Children's Literature,Reserved
+21,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,Reserved
+22,The Witch and the Wardrobe,C.S. Lewis,Fantasy,Available
+24,Gone with the Wind,Margaret Mitchell,Historical Fiction,Available
+25,The Color Purple,Alice Walker,Fiction,Available
+26,Beloved,Toni Morrison,Historical Fiction,Available
+28,Catch-22,Joseph Heller,Satire,Available
+29,The Old Man and the Sea,Ernest Hemingway,Novella,Available
+30,Moby-Dick,Herman Melville,Adventure,Available
+31,A Tale of Two Cities,Charles Dickens,Historical Fiction,Available
+32,Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,Reserved
+33,Anna Karenina,Leo Tolstoy,Realism,Available
+34,One Hundred Years of Solitude,Gabriel Garc�a M�rquez,Magical Realism,Reserved
+35,Midnight's Children,Salman Rushdie,Postcolonial Literature,Available
+36,Things Fall Apart,Chinua Achebe,African Literature,Reserved
+37,The God of Small Things,Arundhati Roy,Fiction,Reserved
+38,Life of Pi,Yann Martel,Adventure,Reserved
+39,The Remains of the Day,Kazuo Ishiguro,Literary Fiction,Available
+40,The English Patient,Michael Ondaatje,Historical Fiction,Reserved
+41,Wolf Hall,Hilary Mantel,Historical Fiction,Available
+42,The Road,Cormac McCarthy,Post-Apocalyptic Fiction,Reserved
+43,Blood Meridian,Cormac McCarthy,Western,Available
+44,No Country for Old Men,Cormac McCarthy,Thriller,Reserved
+45,The Brief Wondrous Life of Oscar Wao,Junot D�az,Fiction,Available
+46,The Namesake,Jhumpa Lahiri,Fiction,Reserved
+47,The Lowland,Jhumpa Lahiri,Fiction,Available
+48,Americanah,Chimamanda Ngozi Adichie,Fiction,Reserved
+49,Half of a Yellow Sun,Chimamanda Ngozi Adichie,Historical Fiction,Available
+50,Homegoing,Yaa Gyasi,Historical Fiction,Reserved
+1,The Lord of the Rings,J.R.R. Tolkien,Fantasy,Reserved
+2,Pride and Prejudice,Jane Austen11,Romance,Reserved
+3,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,Reserved
+6,The Great Gatsby,Firas,Classic,Reserved
+7,And Then There Were None,Agatha Christie,Mystery,Available
+8,The Catcher in the Rye,J.D. Salinger,Coming-of-age,Reserved
+10,The Hunger Games,Suzanne Collins,Young Adult,Reserved
+11,The Book Thief,Markus Zusak,Historical Fiction,Reserved
+12,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,Reserved
+13,The Hobbit,J.R.R. Tolkien,Fantasy,Available
+14,Jane Eyre,Charlotte Bront�,Gothic Romance,Available
+14,Jane Eyre2,Charlotte Bront�,Gothic Romance,Available
+15,The Shining,Stephen King,Horror,Reserved
+16,The Handmaid's Tale,Margaret Atwood,Dystopian,Available
+17,The Odyssey,Homer,Epic Poetry,Reserved
+18,Little Women,Louisa May Alcott,Classic,Available
+19,The Count of Monte Cristo,Alexandre Dumas,Adventure,Reserved
+20,The Secret Garden,Frances Hodgson Burnett,Children's Literature,Reserved
+21,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,Reserved
+22,The Witch and the Wardrobe,C.S. Lewis,Fantasy,Available
+24,Gone with the Wind,Margaret Mitchell,Historical Fiction,Available
+25,The Color Purple,Alice Walker,Fiction,Available
+26,Beloved,Toni Morrison,Historical Fiction,Available
+28,Catch-22,Joseph Heller,Satire,Available
+29,The Old Man and the Sea,Ernest Hemingway,Novella,Available
+30,Moby-Dick,Herman Melville,Adventure,Available
+31,A Tale of Two Cities,Charles Dickens,Historical Fiction,Available
+32,Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,Reserved
+33,Anna Karenina,Leo Tolstoy,Realism,Available
+34,One Hundred Years of Solitude,Gabriel Garc�a M�rquez,Magical Realism,Reserved
+35,Midnight's Children,Salman Rushdie,Postcolonial Literature,Available
+36,Things Fall Apart,Chinua Achebe,African Literature,Reserved
+37,The God of Small Things,Arundhati Roy,Fiction,Reserved
+38,Life of Pi,Yann Martel,Adventure,Reserved
+39,The Remains of the Day,Kazuo Ishiguro,Literary Fiction,Available
+40,The English Patient,Michael Ondaatje,Historical Fiction,Reserved
+41,Wolf Hall,Hilary Mantel,Historical Fiction,Available
+42,The Road,Cormac McCarthy,Post-Apocalyptic Fiction,Reserved
+43,Blood Meridian,Cormac McCarthy,Western,Available
+44,No Country for Old Men,Cormac McCarthy,Thriller,Reserved
+45,The Brief Wondrous Life of Oscar Wao,Junot D�az,Fiction,Available
+46,The Namesake,Jhumpa Lahiri,Fiction,Reserved
+47,The Lowland,Jhumpa Lahiri,Fiction,Available
+48,Americanah,Chimamanda Ngozi Adichie,Fiction,Reserved
+49,Half of a Yellow Sun,Chimamanda Ngozi Adichie,Historical Fiction,Available
+50,Homegoing,Yaa Gyasi,Historical Fiction,Reserved
+1,The Lord of the Rings,J.R.R. Tolkien,Fantasy,Reserved
+2,Pride and Prejudice,Jane Austen,Romance,Available
+3,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,Available
+6,The Great Gatsby,Firas,Classic,Reserved
+7,And Then There Were None,Agatha Christie,Mystery,Available
+8,The Catcher in the Rye,J.D. Salinger,Coming-of-age,Available
+10,The Hunger Games,Suzanne Collins,Young Adult,Reserved
+11,The Book Thief,Markus Zusak,Historical Fiction,Reserved
+12,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,Reserved
+13,The Hobbit,J.R.R. Tolkien,Fantasy,Available
+14,Jane Eyre,Charlotte Bront�,Gothic Romance,Available
+14,Jane Eyre2,Charlotte Bront�,Gothic Romance,Available
+15,The Shining,Stephen King,Horror,Reserved
+16,The Handmaid's Tale,Margaret Atwood,Dystopian,Available
+17,The Odyssey,Homer,Epic Poetry,Reserved
+18,Little Women,Louisa May Alcott,Classic,Available
+19,The Count of Monte Cristo,Alexandre Dumas,Adventure,Reserved
+20,The Secret Garden,Frances Hodgson Burnett,Children's Literature,Reserved
+21,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,Reserved
+22,The Witch and the Wardrobe,C.S. Lewis,Fantasy,Available
+24,Gone with the Wind,Margaret Mitchell,Historical Fiction,Available
+25,The Color Purple,Alice Walker,Fiction,Available
+26,Beloved,Toni Morrison,Historical Fiction,Available
+28,Catch-22,Joseph Heller,Satire,Available
+29,The Old Man and the Sea,Ernest Hemingway,Novella,Available
+30,Moby-Dick,Herman Melville,Adventure,Available
+31,A Tale of Two Cities,Charles Dickens,Historical Fiction,Available
+32,Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,Reserved
+33,Anna Karenina,Leo Tolstoy,Realism,Available
+34,One Hundred Years of Solitude,Gabriel Garc�a M�rquez,Magical Realism,Reserved
+35,Midnight's Children,Salman Rushdie,Postcolonial Literature,Available
+36,Things Fall Apart,Chinua Achebe,African Literature,Reserved
+37,The God of Small Things,Arundhati Roy,Fiction,Reserved
+38,Life of Pi,Yann Martel,Adventure,Reserved
+39,The Remains of the Day,Kazuo Ishiguro,Literary Fiction,Available
+40,The English Patient,Michael Ondaatje,Historical Fiction,Reserved
+41,Wolf Hall,Hilary Mantel,Historical Fiction,Available
+42,The Road,Cormac McCarthy,Post-Apocalyptic Fiction,Reserved
+43,Blood Meridian,Cormac McCarthy,Western,Available
+44,No Country for Old Men,Cormac McCarthy,Thriller,Reserved
+45,The Brief Wondrous Life of Oscar Wao,Junot D�az,Fiction,Available
+46,The Namesake,Jhumpa Lahiri,Fiction,Reserved
+47,The Lowland,Jhumpa Lahiri,Fiction,Available
+48,Americanah,Chimamanda Ngozi Adichie,Fiction,Reserved
+49,Half of a Yellow Sun,Chimamanda Ngozi Adichie,Historical Fiction,Available
+50,Homegoing,Yaa Gyasi,Historical Fiction,Reserved

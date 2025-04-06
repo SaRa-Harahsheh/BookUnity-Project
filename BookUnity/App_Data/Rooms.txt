@@ -1,0 +1,4 @@
+1,Single,1,Booked
+2,Double,2,Available
+3,Meeting,15,Available
+4,Studying,10,Available

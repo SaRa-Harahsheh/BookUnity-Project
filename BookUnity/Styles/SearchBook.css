@@ -1,0 +1,266 @@
+﻿.search {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    margin-top: 5%;
+    height: auto;
+    min-height: 50vh;
+    margin-bottom: 5%;
+}
+
+.sliderContainer {
+    position: relative;
+    width: 90%;
+    height: 100px;
+    overflow: hidden;
+    border-left: 5px solid orange;
+    border-right: 5px solid orange;
+    border-bottom: 5px solid orange;
+}
+
+.slider {
+    display: flex;
+    position: absolute;
+    width: 300%;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+}
+
+.b1 {
+    background-image: url('/Images/b1.png');
+    background-size: cover;
+}
+
+.b2 {
+    background-image: url('/Images/b2.png');
+    background-size: cover;
+}
+
+.b3 {
+    background-image: url('/Images/b3.png');
+    background-size: cover;
+}
+
+.search__container .searchBookBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #CD7507;
+    border-radius: 30px;
+    border: none;
+    color: #ECE4D3;
+    transition: all .3s;
+}
+
+    .search__container .searchBookBtn:hover {
+        background-color: #285F59;
+    }
+
+/*----------------------------------------------------------------------------------*/
+
+.search__container {
+    padding-top: 64px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.search__title {
+    font-size: 22px;
+    font-weight: 900;
+    text-align: center;
+    color: #ff8b88;
+}
+
+.search__input {
+    width: 80%;
+    padding: 12px 24px;
+    background-color: transparent;
+    transition: transform 250ms ease-in-out;
+    font-size: 14px;
+    line-height: 18px;
+    color: #575756;
+    background-color: transparent;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z'/%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+    background-position: 98% center;
+    border-radius: 50px;
+    border: 1px solid #CD7507;
+    transition: all 250ms ease-in-out;
+    backface-visibility: hidden;
+    transform-style: preserve-3d;
+}
+
+    .search__input::placeholder {
+        color: rgba(87, 87, 86, 0.8);
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+    }
+
+    .search__input:hover,
+    .search__input:focus {
+        padding: 12px 0;
+        outline: 0;
+        border: 1px solid transparent;
+        border-bottom: 1px solid #CD7507;
+        border-radius: 0;
+        background-position: 100% center;
+    }
+
+.credits__container {
+    margin-top: 24px;
+}
+
+.credits__text {
+    text-align: center;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.credits__link {
+    color: #ff8b88;
+    text-decoration: none;
+    transition: color 250ms ease-in;
+}
+
+    .credits__link:hover,
+    .credits__link:focus {
+        color: rgb(191, 137, 135);
+    }
+
+/**********************************************************/
+#bookSearchResults {
+    width: 70%;
+}
+#bookSearchResults .horizontal-card-bg-img {
+    width: 180px;
+    background-image: url('https://pabook.libraries.psu.edu/sites/default/files/styles/large/public/2024-11/Untitled%20design%20%283%29.png?itok=rbnjmTm0');
+    background-size: cover;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+#bookSearchResults .horizontal-card-btn-container {
+    width: 140px;
+}
+
+    #bookSearchResults .card {
+        /*    background-color: #ECE4D3;*/
+        /*        background-image: url('/Images/bg.jpg');
+        background-size: cover;*/
+        border-bottom: 2px solid #285F59 !important;
+        border-radius: 10px;
+    }
+
+.borrowBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: transparent;
+    border-radius: 30px;
+    border: 2px solid #CD7507;
+    color: #CD7507;
+    transition: all .3s;
+}
+
+    .borrowBtn:hover {
+        background-color: #285F59;
+        border: none;
+        color: #ECE4D3;
+    }
+
+
+    /*888888888888888888888888888888888888888*/
+
+/*.popup {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background-color: #ECE4D3;
+    padding: 20px;
+    border-radius: 8px;
+    width: 350px;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.close-btn {
+    float: right;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.popup-content h3 {
+    color: #285F5F;
+    margin-bottom: 10px;
+}
+
+.popup-content p {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.popup-input {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid #285F5F;
+    border-radius: 5px;
+}
+
+.popup-buttons {
+    margin-top: 15px;
+}
+
+.confirm-btn {
+    background-color: #CD7507;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+    .confirm-btn:hover {
+        background-color: #a55d05;
+    }
+
+.cancel-btn {
+    background-color: #285F5F;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .cancel-btn:hover {
+        background-color: #1e4a4a;
+    }
+*/
